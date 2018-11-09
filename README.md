@@ -11,7 +11,8 @@
   4- [xml](https://github.com/danybea/apren-Markdown/edit/master/prueba1.xml)
   
   - Este es el texto ejemplo de [\LaTeX](https://github.com/danybea/apren-Markdown/blob/master/README.md
-)
+)\
+- enlace a [***raw***](http://raw.githack.com/)\
   - Con datos en _\emph_{cursiva} o **\textbf**{negrita}.
 Ejemplo de f\'ormula
 \begin{align}
