@@ -4,9 +4,9 @@
 - \usepackage{amsmath}
 - \title{\Ejemplo}
 - \begin{document}
-- Este es el texto ejemplo de [\LaTeX](https://github.com/danybea/apren-Markdown/blob/master/README.md
+  - Este es el texto ejemplo de [\LaTeX](https://github.com/danybea/apren-Markdown/blob/master/README.md
 )
-- Con datos en _\emph_{cursiva} o **\textbf**{negrita}.
+  - Con datos en _\emph_{cursiva} o **\textbf**{negrita}.
 Ejemplo de f\'ormula
 \begin{align}
 E &= mc^2
