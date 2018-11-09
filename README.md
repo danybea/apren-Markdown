@@ -10,5 +10,5 @@
 Ejemplo de f\'ormula
 \begin{align}
 E &= mc^2
-\end{align}
-\end{document}
+- \end{align}
+- \end{document}
